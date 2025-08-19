@@ -1,4 +1,4 @@
-# Case Studies
+# 5. Case Studies
 
 The Karma System framework can be tested against real-world failures of blame-based responsibility.  
 These cases show how loops — not individual intentions — are the drivers of harm.  
