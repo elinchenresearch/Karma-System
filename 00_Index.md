@@ -1,4 +1,4 @@
-# Karma System: Beyond Blame in Complex Systems
+# Karma System: Mapping Causality Beyond Blame
 
 📖 A structured index of the Karma System paper.  
 Each file contains a section of the original work.
