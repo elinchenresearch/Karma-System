@@ -1,6 +1,10 @@
-> **Note**  
-> This system is paused for other parts of the whole research system to catch up.  
-> The current version was updated on **22 August 2025**.
+📦 **Group Information**
+
+- Works across all repositories — system evolves in parallel.  
+- Terms → see **[Autarchic-Lexicon](../Autarchic-Lexicon)**.  
+- Origins → see **[Epistemic-Autarchy](../Epistemic-Autarchy)**.  
+- Each repo = one node in a wider lattice.  
+---
 
 # Karma System: Mapping Blame in Complex System
 
